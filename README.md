@@ -9,3 +9,4 @@ It is hello from Stan and pr branch :)
 *Катя, привет тебе от Насти!)))*
 Hi Kate, it,s me, Ivan Vlaznev, have a good day to you)
 если всё получится то в конце семинара вы это сможете увидеть, Катя)
+It is hello from Olga and pr branch:)
