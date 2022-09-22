@@ -10,3 +10,4 @@ It is hello from Stan and pr branch :)
 Hi Kate, it,s me, Ivan Vlaznev, have a good day to you)
 если всё получится то в конце семинара вы это сможете увидеть, Катя)
 Привет, Оля! Как жизнь? Это Таня, если что)
+Еще одна строчка.
